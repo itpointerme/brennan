@@ -1,0 +1,293 @@
+@media screen and (max-width:1050px) {
+	.header-box{
+		width:90%;
+	}
+	.header-box .nav{
+		width:100%;
+	}
+	.header-box .nav > li > ul{
+		width:600px;
+	}
+	.header-box .nav > li > ul > li{
+		width:48%;
+	}
+	.search{
+		display:none;
+	}
+	.searchtop{
+		display:block !important;
+	}
+	.header-box .right{
+		width:330px;
+	}
+	.header-box .right .item{
+		width:230px;
+	}
+	.header-box .right .item li{
+		padding: 30px 20px 30px 0;
+	}
+	.header-box .right .item li a img{
+		margin-right:2px;
+	}
+	.header-box .nav > li{
+		width:16.6%;
+	}
+	.fullSlide .bd li .font-box{
+		width:90%;
+	}
+	.fullSlide .bd li .font-box .left{
+		width:44%;
+	}
+	.fullSlide .bd li .font-box .right{
+		width:55%;
+	}
+	.fullSlide .bd li .font-box .font p{
+		width:100%;
+		height:auto;
+	}
+	.index2{
+		width:90%;
+	}
+	.index2 ul li{
+		width:22%;
+	}
+	.index2 .link{
+		width:80%;
+	}
+	.index3{
+		width:90%;
+	}
+	.index3-rz .left1{
+		display:none;
+	}
+	.index3-rz .right1{
+		width:100%;
+		float:left;
+	}
+	.picScroll-left .bd ul li{
+		width:12.5%;
+	}
+	.index5{
+		width:90%;
+	}
+	.index6{
+		width:96%;
+	}
+	.new-list ul li{
+		width:45%;
+		height:auto;
+	}
+	.new-list ul li.right{
+	}
+	.new-list ul li a .img{
+		width:100%;
+		height:auto;
+	}
+	.new-list ul li a .font{
+		width:100%;
+	}
+	.footer1{
+		width:90%;
+	}
+	.footer1 .left{
+		width:35%;
+		padding:10px;
+	}
+	.footer1 .right{
+		width:60%;
+	}
+	.footer1 .right dl{
+		width:30%;
+		padding-left:3%;
+	}
+	.footer2{
+		width:90%;
+	}
+	.catpos{
+		width:90%;
+	}
+	.tk-content{
+		width:90%;
+	}
+	.news-content{
+		width:96%;
+		padding:2%;
+	}
+	.news-content ul li{
+		width:28%;
+		margin:2% 1%;
+		padding:1.5%;
+	}
+	.news-content ul li a span.img{
+		height:140px;
+	}
+	
+	/*新闻详情*/
+	.news-main{
+		width:96%;
+		margin:5% auto;
+	}
+	.about1{
+		width:94%;
+	}
+	.about1 .img{
+		width:38%;
+	}
+	.about2{
+		width:94%;
+	}
+	.dsj-box{
+		width:100%;
+		padding:0;
+	}
+	.dsj-list{
+		width:100%;
+		margin:0 auto;
+		padding:0;
+	}
+	.about3{
+		width:94%;
+	}
+	.contact-content{
+		width:94%;
+		padding:5% 2%;
+	}
+	.contact-content .left h1{
+		font-size:24px;
+	}
+	.contact-content .left h2{
+		margin-top:2%;
+		padding-bottom:5%;
+		font-size:16px;
+	}
+	.jp-content{
+		width:94%;		
+	}
+	.jp-content .title span{
+		display:block;
+	}
+	.jp-content .title em{
+		display:block;
+		margin:5% 0 0 0;
+	}
+	
+	.proBox{
+		width:94%;
+	}
+	.proBox ul li{
+		width:23%;
+		height:190px;
+		margin:50px 1% 0;
+	}
+	.proBox ul li a .img{
+		width:100%;
+		height:138px;
+		line-height:138px;
+	}
+	
+	.proBox2{
+		width:900px;
+	}
+	.proleft{
+		width:680px;
+		float:left;
+	}
+	.proright{
+		width:200px;
+	}
+	.proBox2 ul li{
+		width:162px;
+	}
+	
+	/*查找配件*/
+	.choosebox1 .choose1{
+		width:150px;
+		height:220px;
+	}
+	.choosebox1 .choose1 .img{
+		width:100%;
+		height:150px;
+		line-height:150px;
+	}
+	
+	.choose2-left{
+		width:700px;
+		float:left;
+	}
+	.choose2-right{
+		width:180px;
+		float:right;
+		margin-top:50px;
+	}
+	
+	.pro-main-box{
+		width:900px;
+	}
+	.pro-main-box .pro-right{
+		width:480px;
+		margin-right:0;
+	}
+	
+	/*新增询价单*/
+	.member-header-center{
+		width:900px;
+	}
+	.member-top-center .left{
+		width:600px;
+	}
+	.member-top-center{
+		width:860px;
+	}
+	.member-main-box{
+		width:860px;
+	}
+	.member-main-box .left{
+		width:150px;
+	}
+	.member-main-box .right{
+		width:650px;
+	}
+	.theme .ipt{
+		width:300px;
+	}
+	.purchase-message textarea{
+		width:450px;
+	}
+	.purchase-message .ipt2{
+		width:150px;
+	}
+	.purchase-message .ipt4{
+		width:150px;
+	}
+	.member-main-box .right1{
+		width:650px;
+	}
+	
+	
+	.member-sale-box{
+		width:900px;
+	}
+	.sale-right{
+		width:638px;
+	}
+	.sale-right .nav-box{
+		width:600px;
+	}
+	.sale-right .nav-left{
+		width:300px;
+	}
+	.sale-right .nav-left a{
+		width:133px;
+		margin-right:15px;
+		margin-bottom:15px;
+	}
+	.sale-right .nav-right{
+		width:300px;
+	}
+	.sale-right .nav-right a{
+		width:133px;
+		margin-right:15px;
+		margin-bottom:15px;
+		height:282px;
+	}
+}

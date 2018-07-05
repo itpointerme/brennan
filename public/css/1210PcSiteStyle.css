@@ -1,0 +1,259 @@
+@media screen and (max-width:1520px) {
+	.pro-table{
+		width:1300px;
+	}
+	#proaa{
+		width:1300px;
+	}
+}
+@media screen and (max-width:1300px) {
+	.index-content1{
+		width:90%;
+	}
+	.pro-table{
+		width:1200px;
+	}
+	#proaa{
+		width:1200px;
+	}
+	.company-message{
+		padding:50px 20px;
+	}	
+}
+@media screen and (max-width:1210px) {
+	.header-box{
+		width:1000px;
+	}
+	.header-box .nav{
+		width:690px;
+	}
+	.header-box .nav > li{
+		width:115px;
+	}
+	.fullSlide .bd li .font-box .left{
+		width:450px;
+	}
+	.fullSlide .bd li .font-box .right{
+		width:550px;
+	}
+	.index2{
+		width:960px;
+	}
+	.index2 ul li{
+		width:224px;
+	}
+	.index3{
+		width:1000px;
+	}
+	.index3-rz .right1{
+		width:826px;
+	}
+	.picScroll-left .bd ul li{
+		width:100px;
+	}
+	.index5{
+		width:1000px;
+	}
+	.index6{
+		width:1000px;
+	}
+	.new-list ul li{
+		width:460px;
+	}
+	.new-list ul li a .font{
+		width:260px;
+	}
+	.footer1{
+		width:1000px;
+	}
+	.footer1 .right{
+		width:625px;
+	}
+	.footer1 .right dl{
+		width:130px;
+		padding-left:60px;
+	}
+	.footer2{
+		width:1000px;
+	}
+	.fullSlide .bd li .font-box{
+		width:1000px;
+	}
+	.catpos{
+		width:950px;
+	}
+	.tk-content{
+		width:950px;
+	}
+	.tk-content .link{
+		width:100%;
+	}	
+	.news-content{
+		width:960px;
+	}
+	.news-content ul li{
+		width:258px;
+		margin:25px 10px;
+	}
+	.news-content ul li a span.img{
+		height:140px;
+	}
+	.about1{
+		width:1000px;
+	}
+	.about2{
+		width:1000px;
+	}
+	.dsj-box{
+		width:920px;
+	}
+	.dsj-list{
+		width:100%;
+	}
+	.dsj-list ul li{
+		width:70px;
+	}
+	.about3{
+		width:1000px;
+	}
+	.contact-content{
+		width:950px;
+	}
+	.jp-content{
+		width:1000px;		
+	}
+	
+	/*2018-5-7*/
+	/*产品展示*/
+	.proBox{
+		width:1000px;
+	}	
+	.proBox2{
+		width:1000px;
+	}
+	.proleft{
+		width:780px;
+		float:left;
+	}
+	.proright{
+		width:200px;
+	}
+	.proBox2 ul li{
+		width:162px;
+	}
+	
+	
+	/*查找配件*/
+	.choosebox1 .choose1{
+		width:176px;
+	}
+	.choose2-left{
+		width:800px;
+	}
+	/*查找结果*/
+	.find-result{
+		width:800px;
+		margin:50px auto;
+	}
+	.result-box{
+		padding:20px 20px;
+	}
+	.result-box .choose-allready{
+		overflow:hidden;
+		width:250px;
+		float:left;
+		margin-top:0;
+	}
+	.result-box .choose-allready .t{
+		width:100%;
+		text-align:left;
+		height:40px;
+		line-height:40px;
+		font-size:18px;
+	}
+	.pro-main-box{
+		width:1000px;
+	}
+	.pro-main-box .pro-right{
+		width:530px
+	}
+	.pro-table{
+		width:95%;
+		margin:0 auto 150px;
+		padding:2%;
+	}
+	
+	/*新增询价单*/
+	.member-header-center{
+		width:1000px;
+	}
+	.member-top-center .left{
+		width:700px;
+	}
+	.member-top-center{
+		width:960px;
+	}
+	.member-main-box{
+		width:1000px;
+	}
+	.member-main-box .left{
+		width:200px;
+	}
+	.member-main-box .right{
+		width:700px;
+	}
+	.theme .ipt{
+		width:300px;
+	}
+	.purchase-message textarea{
+		width:500px;
+	}
+	.purchase-message .ipt2{
+		width:150px;
+	}
+	.purchase-message .ipt4{
+		width:150px;
+	}
+	.member-main-box .right1{
+		width:750px;
+	}
+	.theme .theme-box .theme-left{
+		width:auto;
+	}
+	.theme .theme-box .theme-left p{
+		float:none;
+		width:auto;
+	}
+	.member-main-box .right1-top .left2 a{
+		font-size:14px;
+	}
+	
+	.member-sale-box{
+		width:1000px;
+	}
+	.sale-right{
+		width:738px;
+	}
+	.sale-right .nav-box{
+		width:700px;
+	}
+	.sale-right .nav-left{
+		width:350px;
+	}
+	.sale-right .nav-left a{
+		width:158px;
+		margin-right:15px;
+	}
+	.sale-right .nav-right{
+		width:350px;
+	}
+	.sale-right .nav-right a{
+		width:158px;
+		margin-right:15px;
+	}
+	
+	/*2018-5-26*/
+	.company-message .message .ipt-box{
+		width:480px;
+	}
+}

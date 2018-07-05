@@ -1,0 +1,9 @@
+@extends('sale_public')
+@section('title')
+	销售中心
+@endsection
+@section('content')
+	@section('nav_title')
+		我的销售中心
+	@endsection
+@endsection
